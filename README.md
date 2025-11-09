@@ -1,2 +1,2 @@
-# hello-word
-Frist repository versioned
+# Hello Word
+Frist repository versioned, created for curso em video.
